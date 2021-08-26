@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/01/17 10:35:41.313.dproj,C:\Users\AronB\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\AronB\Documents\RAD Studio\Projects\SRIST.dproj</Transaction>
+    <Transaction>2019/01/17 10:35:58.672.pas,C:\Users\AronB\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\AronB\Documents\RAD Studio\Projects\UAbertura.pas</Transaction>
+    <Transaction>2019/01/17 10:35:58.672.dfm,C:\Users\AronB\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\AronB\Documents\RAD Studio\Projects\UAbertura.dfm</Transaction>
+    <Transaction>2019/01/17 10:36:35.234.dfm,C:\Users\AronB\Documents\RAD Studio\Projects\UAbertura.dfm=C:\Users\AronB\Documents\Projects\Delphi\SRIST\UAbertura.dfm</Transaction>
+    <Transaction>2019/01/17 10:36:35.234.pas,C:\Users\AronB\Documents\RAD Studio\Projects\UAbertura.pas=C:\Users\AronB\Documents\Projects\Delphi\SRIST\UAbertura.pas</Transaction>
+    <Transaction>2019/01/17 10:36:38.355.dproj,C:\Users\AronB\Documents\RAD Studio\Projects\SRIST.dproj=C:\Users\AronB\Documents\Projects\Delphi\SRIST\SRIST.dproj</Transaction>
+    <Transaction>2019/01/17 10:37:13.518.dfm,C:\Users\AronB\Documents\Projects\Delphi\SRIST\Unit1.dfm=C:\Users\AronB\Documents\Projects\Delphi\SRIST\UDados.dfm</Transaction>
+    <Transaction>2019/01/17 10:37:13.518.pas,C:\Users\AronB\Documents\Projects\Delphi\SRIST\Unit1.pas=C:\Users\AronB\Documents\Projects\Delphi\SRIST\UDados.pas</Transaction>
+    <Transaction>2019/01/17 10:37:57.136.pas,C:\Users\AronB\Documents\Projects\Delphi\SRIST\Unit1.pas=C:\Users\AronB\Documents\Projects\Delphi\SRIST\UEmpresa.pas</Transaction>
+    <Transaction>2019/01/17 10:37:57.136.dfm,C:\Users\AronB\Documents\Projects\Delphi\SRIST\Unit1.dfm=C:\Users\AronB\Documents\Projects\Delphi\SRIST\UEmpresa.dfm</Transaction>
+    <Transaction>2019/01/17 10:38:42.502.dfm,C:\Users\AronB\Documents\Projects\Delphi\SRIST\Unit1.dfm=C:\Users\AronB\Documents\Projects\Delphi\SRIST\UParticipantes.dfm</Transaction>
+    <Transaction>2019/01/17 10:38:42.502.pas,C:\Users\AronB\Documents\Projects\Delphi\SRIST\Unit1.pas=C:\Users\AronB\Documents\Projects\Delphi\SRIST\UParticipantes.pas</Transaction>
+    <Transaction>2019/01/17 10:39:28.803.dfm,C:\Users\AronB\Documents\Projects\Delphi\SRIST\Unit1.dfm=C:\Users\AronB\Documents\Projects\Delphi\SRIST\UItens.dfm</Transaction>
+    <Transaction>2019/01/17 10:39:28.803.pas,C:\Users\AronB\Documents\Projects\Delphi\SRIST\Unit1.pas=C:\Users\AronB\Documents\Projects\Delphi\SRIST\UItens.pas</Transaction>
+    <Transaction>2019/01/17 10:44:08.192.dfm,C:\Users\AronB\Documents\Projects\Delphi\SRIST\Unit1.dfm=C:\Users\AronB\Documents\Projects\Delphi\SRIST\UDocumentos.dfm</Transaction>
+    <Transaction>2019/01/17 10:44:08.192.pas,C:\Users\AronB\Documents\Projects\Delphi\SRIST\Unit1.pas=C:\Users\AronB\Documents\Projects\Delphi\SRIST\UDocumentos.pas</Transaction>
+    <Transaction>2019/01/17 10:46:32.270.dfm,C:\Users\AronB\Documents\Projects\Delphi\SRIST\Unit1.dfm=C:\Users\AronB\Documents\Projects\Delphi\SRIST\UGerador.dfm</Transaction>
+    <Transaction>2019/01/17 10:46:32.270.pas,C:\Users\AronB\Documents\Projects\Delphi\SRIST\Unit1.pas=C:\Users\AronB\Documents\Projects\Delphi\SRIST\UGerador.pas</Transaction>
+    <Transaction>2019/01/17 11:20:09.182.pas,C:\Users\AronB\Documents\Projects\Delphi\SRIST\Unit1.pas=C:\Users\AronB\Documents\Projects\Delphi\SRIST\UVersionInfo.pas</Transaction>
+    <Transaction>2019/01/17 15:07:23.625.pas,C:\Users\AronB\Documents\Projects\Delphi\SRIST\Unit1.pas=C:\Users\AronB\Documents\Projects\Delphi\SRIST\UFerramentas.pas</Transaction>
+    <Transaction>2019/12/16 11:36:50.873.pas,C:\Users\AronB\Documents\Projects\Delphi\SRIST\Unit1.pas=C:\Users\AronB\Documents\Projects\Delphi\SRIST\URemessas.pas</Transaction>
+    <Transaction>2019/12/16 11:36:50.898.dfm,C:\Users\AronB\Documents\Projects\Delphi\SRIST\Unit1.dfm=C:\Users\AronB\Documents\Projects\Delphi\SRIST\URemessas.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
